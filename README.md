@@ -54,9 +54,9 @@ A unified voice-AI platform — hiring assistant, people search & reach-out, and
 
 ### Experience
 
-**Software Engineer — AI & Backend Integrations** · **Global Infoventures Pvt. Limited** · **Oct 2026 – Present**
+**AI Engineer** · **Global Infoventures Pvt. Limited** · **Oct 2026 – Present**
 
-**Software Engineer — Backend & AI Integrations** · Think Exam (A Ginger Webs Company) · Jul 2025 – Present
+**Software Engineer — Backend & AI Integrations** · Think Exam (A Ginger Webs Company) · Jul 2025 – Oct 2026
 
 - Integrated third-party **AI proctoring** (face / gaze / anomaly detection) into a live, high-stakes online-exam platform via REST + webhooks — event ingestion, async processing, and violation-flag persistence.
 - Diagnosed and fixed a **~40× auth-path latency regression (4.8s → 0.12s)** using staged DNS/TCP/TLS timing analysis and connection pooling; also fixed a first-boot DB bootstrap bug that would have broken new deployments.
